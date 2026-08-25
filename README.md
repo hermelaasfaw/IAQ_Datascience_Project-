@@ -113,9 +113,15 @@ The analysis was performed in R.
 
 1. Download or clone this repository.
 2. Download the VTT indoor air quality dataset from the dataset source linked above.
-3. Place the required raw data files in the data/ directory.
-4. Open the project in RStudio and set the working directory to the root of the project.
-5. Run the scripts in the following order:
+3. Extract and place the required raw data files(room folders) into the raw_data/ directory;
+   Expected structure,
+     raw_data/
+       - room00
+       - room01
+       - ....
+       - room12/
+5. Open the project in RStudio and set the working directory to the root of the project.
+6. Run the scripts in the following order:
    - scripts/01_data_exploration.R
    - scripts/02_Cleaning_and_EDA.R
 
