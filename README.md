@@ -80,19 +80,19 @@ Detailed exploratory and cleaning procedures are available in the "scripts/" dir
 ## Selected Visualizations
 ### Short-term CO2 behaviour
 
-![Room00 CO2 - One Week](results/fig/room00_co2_one_week.png)
+![Room00 CO2 - One Week](results/figures/room00_co2_one_week.png)
 
 *One-week CO2 time series for Room00, showing repeated short-term variations and CO2 peaks.*
 
 ### CO2 comparison across rooms
 
-![Cross-room CO2 comparison](results/fig/cross_room_co2.png)
+![Cross-room CO2 comparison](results/figures/cross_room_co2.png)
 
 *Mean and median CO2 concentrations across the 13 rooms.*
 
 ### Humidity comparison across rooms
 
-![Cross-room humidity comparison](results/fig/cross_room_humidity.png)
+![Cross-room humidity comparison](results/figures/cross_room_humidity.png)
 
 *Mean relative humidity across the 13 rooms, showing differences in environmental conditions between rooms.*
  
