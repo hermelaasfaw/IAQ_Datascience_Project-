@@ -96,7 +96,11 @@ Detailed exploratory and cleaning procedures are available in the "scripts/" dir
 
 *Mean relative humidity across the 13 rooms, showing differences in environmental conditions between rooms.*
 
+### Temperature comparison across rooms
+
 ![Cross-room temperature comparison](results/figures/cross_room_temperature.png)
+
+*Mean temperature across the 13 rooms, showing differences in environmental conditions between rooms.*
  
 ## Summary Tables
 
@@ -125,7 +129,7 @@ The analysis was performed in R.
    - scripts/01_data_exploration.R
    - scripts/02_Cleaning_and_EDA.R
 
-The generated summary tables are stored in results/, while selected figures are stored in results/fig/.
+The generated summary tables are stored in results/, while selected figures are stored in results/figures/.
 The analysis was performed in R.
 
 ## Next Steps
