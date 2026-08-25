@@ -95,6 +95,8 @@ Detailed exploratory and cleaning procedures are available in the "scripts/" dir
 ![Cross-room humidity comparison](results/figures/cross_room_humidity.png)
 
 *Mean relative humidity across the 13 rooms, showing differences in environmental conditions between rooms.*
+
+![Cross-room temperature comparison](results/figures/cross_room_temperature.png)
  
 ## Summary Tables
 
